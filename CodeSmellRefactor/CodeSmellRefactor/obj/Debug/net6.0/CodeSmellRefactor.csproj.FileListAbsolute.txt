@@ -13,3 +13,17 @@ D:\CodeSmellRefactor\CodeSmellRefactor\obj\Debug\net6.0\refint\CodeSmellRefactor
 D:\CodeSmellRefactor\CodeSmellRefactor\obj\Debug\net6.0\CodeSmellRefactor.pdb
 D:\CodeSmellRefactor\CodeSmellRefactor\obj\Debug\net6.0\CodeSmellRefactor.genruntimeconfig.cache
 D:\CodeSmellRefactor\CodeSmellRefactor\obj\Debug\net6.0\ref\CodeSmellRefactor.dll
+C:\Users\evila\OneDrive\Documentos\LP3\aula-programacao-2023.2\CodeSmellRefactor\CodeSmellRefactor\bin\Debug\net6.0\CodeSmellRefactor.exe
+C:\Users\evila\OneDrive\Documentos\LP3\aula-programacao-2023.2\CodeSmellRefactor\CodeSmellRefactor\bin\Debug\net6.0\CodeSmellRefactor.deps.json
+C:\Users\evila\OneDrive\Documentos\LP3\aula-programacao-2023.2\CodeSmellRefactor\CodeSmellRefactor\bin\Debug\net6.0\CodeSmellRefactor.runtimeconfig.json
+C:\Users\evila\OneDrive\Documentos\LP3\aula-programacao-2023.2\CodeSmellRefactor\CodeSmellRefactor\bin\Debug\net6.0\CodeSmellRefactor.dll
+C:\Users\evila\OneDrive\Documentos\LP3\aula-programacao-2023.2\CodeSmellRefactor\CodeSmellRefactor\bin\Debug\net6.0\CodeSmellRefactor.pdb
+C:\Users\evila\OneDrive\Documentos\LP3\aula-programacao-2023.2\CodeSmellRefactor\CodeSmellRefactor\obj\Debug\net6.0\CodeSmellRefactor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evila\OneDrive\Documentos\LP3\aula-programacao-2023.2\CodeSmellRefactor\CodeSmellRefactor\obj\Debug\net6.0\CodeSmellRefactor.AssemblyInfoInputs.cache
+C:\Users\evila\OneDrive\Documentos\LP3\aula-programacao-2023.2\CodeSmellRefactor\CodeSmellRefactor\obj\Debug\net6.0\CodeSmellRefactor.AssemblyInfo.cs
+C:\Users\evila\OneDrive\Documentos\LP3\aula-programacao-2023.2\CodeSmellRefactor\CodeSmellRefactor\obj\Debug\net6.0\CodeSmellRefactor.csproj.CoreCompileInputs.cache
+C:\Users\evila\OneDrive\Documentos\LP3\aula-programacao-2023.2\CodeSmellRefactor\CodeSmellRefactor\obj\Debug\net6.0\CodeSmellRefactor.dll
+C:\Users\evila\OneDrive\Documentos\LP3\aula-programacao-2023.2\CodeSmellRefactor\CodeSmellRefactor\obj\Debug\net6.0\refint\CodeSmellRefactor.dll
+C:\Users\evila\OneDrive\Documentos\LP3\aula-programacao-2023.2\CodeSmellRefactor\CodeSmellRefactor\obj\Debug\net6.0\CodeSmellRefactor.pdb
+C:\Users\evila\OneDrive\Documentos\LP3\aula-programacao-2023.2\CodeSmellRefactor\CodeSmellRefactor\obj\Debug\net6.0\CodeSmellRefactor.genruntimeconfig.cache
+C:\Users\evila\OneDrive\Documentos\LP3\aula-programacao-2023.2\CodeSmellRefactor\CodeSmellRefactor\obj\Debug\net6.0\ref\CodeSmellRefactor.dll

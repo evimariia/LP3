@@ -10,24 +10,16 @@ namespace CodeSmellRefactor
     {
         public string Materia { get; set; }
 
+        //Uso da herança
         public Professor(string nome, int idade, string endereco, string telefone, string email, string materia)
+            : base(nome, idade, endereco, telefone, email)
         {
-            this.Nome = nome;
-            this.Idade = idade;
-            this.Endereco = endereco;
-            this.Telefone = telefone;
-            this.Email = email;
             this.Materia = materia;
         }
 
         public override void ImprimeInformacoes()
         {
-            //base.ImprimeInformacoes();
-            Console.WriteLine("Nome: {0}", this.Nome);
-            Console.WriteLine("Idade: {0}", this.Idade);
-            Console.WriteLine("Endereço: {0}", this.Endereco);
-            Console.WriteLine("Telefone: {0}", this.Telefone);
-            Console.WriteLine("E-mail: {0}", this.Email);
+            base.ImprimeInformacoes();
             Console.WriteLine("Matéria: {0}", this.Materia);
         }
     }
